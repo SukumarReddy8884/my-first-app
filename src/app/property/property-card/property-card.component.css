@@ -1,0 +1,39 @@
+.propimg{
+    max-width: 100%;
+}
+
+.card:hover img{
+    transform: scale(1.2,1.2);
+    transition-duration: 400ms;
+    opacity: 50%;
+    transition-timing-function: ease-out;
+}
+.card img{
+    transform: scale(1,1);
+    transition-duration: 400ms;
+    transition-timing-function: ease-out;
+}
+.img-wrapper{
+    overflow: hidden;
+    position: relative;
+}
+.member-icons{
+    position: absolute;
+    bottom:-10%;
+    opacity:0;
+    left:0;
+    right:0;
+    margin-right: auto;
+    margin-left: auto;
+    
+
+}
+.img-wrapper:hover ul{
+    bottom:0;
+    opacity:1;
+
+}
+
+.animate{
+    transition: all 0.3s;
+}

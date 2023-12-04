@@ -1,0 +1,37 @@
+[{
+    "ID":1,
+    "Type":"House",
+    "Name": "Birla House",
+    "Price":12000
+},
+{
+  "ID":1,
+  "Type":"Villa",
+  "Name": "Balaji Homes",
+  "Price":15000
+},
+{
+  "ID":1,
+  "Type":"House",
+  "Name": "Aero Estate",
+  "Price":13400
+},
+{
+  "ID":1,
+  "Type":"Duplex",
+  "Name": "Amber Fields",
+  "Price":12000
+},
+{
+  "ID":1,
+  "Type":"House",
+  "Name": "Wheatlands",
+  "Price":12400
+},
+{
+  "ID":1,
+  "Type":"Villa",
+  "Name": "Laxman's Estate",
+  "Price":12000
+}
+]
